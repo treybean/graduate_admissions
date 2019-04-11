@@ -77,3 +77,4 @@ docs/_build/
 .vscode
 
 .python_history
+.kaggle/kaggle.json
