@@ -1,6 +1,6 @@
 # Graduate Admissions
 
-An exploration and modeling of a dataset containing attributes that correlate with a chance of admittance to a masters graduate program.
+An exploration and modeling of a dataset containing attributes that correlate with a chance of admittance to a masters graduate program. View on Kaggle https://www.kaggle.com/treybean/graduate-admissions.
 
 ## Installation
 
